@@ -1,0 +1,35 @@
+body {
+    background-color: aliceblue;
+}
+
+p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.myBold {
+    font-weight: bold;
+}
+
+#calculate {
+    padding: 10px;
+    border: 2px solid;
+    width: 200px;
+    border-color: black;
+    text-align: center;
+    background-color: lightgrey;
+}
+
+#n1 {
+    margin: 10px;
+}
+
+#n2 {
+    margin: 10px;
+}
+
+#op {
+    background-color: lightgrey;
+    margin: 10px;
+}
