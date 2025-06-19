@@ -1,0 +1,47 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+#hibox {
+    border: 5px solid black;
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    font-size: 10px;
+}
+
+p{
+    text-align: center;
+}
+
+#plus {
+    border: 2px solid black;
+    background-color: lightgray;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100px;
+    height: 80px;
+}
+
+#minus {
+    border: 2px solid black;
+    background-color: lightgray;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100px;
+    height: 80px;
+
+}
